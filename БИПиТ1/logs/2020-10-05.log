@@ -1,0 +1,14 @@
+2020-10-05 17:40:55.1147 | INFO | ахоХр1.WebService | Process started: N= 1000000, M= 4
+2020-10-05 17:40:55.2905 | INFO | ахоХр1.WebService | Process finished
+2020-10-05 17:43:32.0676 | INFO | ахоХр1.WebService | Process started: N= 1000000, M= 4
+2020-10-05 17:43:32.0996 | INFO | ахоХр1.WebService | Started thread 1
+2020-10-05 17:43:32.0996 | INFO | ахоХр1.WebService | Started thread 2
+2020-10-05 17:43:32.1906 | INFO | ахоХр1.WebService | Started thread 3
+2020-10-05 17:43:32.1906 | INFO | ахоХр1.WebService | Started thread 4
+2020-10-05 17:43:32.3015 | INFO | ахоХр1.WebService | Process finished
+2020-10-05 17:44:59.5581 | INFO | ахоХр1.WebService | Process started: N= 1000000, M= -1
+2020-10-05 17:44:59.6221 | ERROR | ахоХр1.WebService | Error while the app is running
+2020-10-05 17:44:59.6221 | INFO | ахоХр1.WebService | Process finished
+2020-10-05 17:47:58.7438 | INFO | ахоХр1.WebService | Process started: N= 1000000, M= -1
+2020-10-05 17:47:58.8078 | ERROR | ахоХр1.WebService | Error while the app is running
+2020-10-05 17:47:58.8078 | INFO | ахоХр1.WebService | Process finished
